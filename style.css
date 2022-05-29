@@ -1,0 +1,49 @@
+* {
+    background-color: darkred;
+}
+
+.button {
+    background-color: black;
+}
+
+a {
+    color: darkgoldenrod; background-color: black;
+}
+
+.heading {
+    background-color: black; color: darkgoldenrod;
+    font-family: Impact, 'Haettenschweiler', 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+
+h2 {
+    text-align: center; background-color: black; color: darkgoldenrod; font-size: larger; 
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+}
+
+.para {
+    color: darkgoldenrod;
+}
+
+ul {
+    text-align: center; color: darkgoldenrod;
+}
+
+
+.center {
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px;
+    width: 300px;
+}
+
+.img {
+    display: block;
+    margin: 0 auto;
+    margin-top: 100px;
+    width: 400px;
+    overflow: hidden;
+    max-width: 100%;
+}
